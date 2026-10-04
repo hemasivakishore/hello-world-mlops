@@ -1,0 +1,5 @@
+# Python Virtual Environments
+.mlops/
+venv/
+env/
+ENV/
